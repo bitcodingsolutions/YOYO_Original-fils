@@ -64,7 +64,7 @@
 
       "is_app_update_popup": true,
       "is_dissmisable": false,
-      "app_update_url": "https://play.google.com/store/apps/details?id=com.appclub.whats.status.saver",
+      "app_update_url": "https://play.google.com/store/apps/details?id=com.yoyolive.llc",
       "is_override": false,
       "ads_loading_text": "Ads will loading...",
       "ads_loading_delay": 1000,
