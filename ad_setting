@@ -103,7 +103,9 @@
       "is_override": false,
       "is_about_app": true,
       "about_title": "About",
-      "about_message": "YOYO Live is about to random calling app."
+      "about_message": "YOYO Live is about to random calling app.",
+      "registration_detail": "YOYO Live LLC.® 2020",
+      "version_detail": "version : 2.0.0"
     },
     "Exit_Dialog": {
       "is_override": false,
