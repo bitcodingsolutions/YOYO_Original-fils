@@ -21,7 +21,7 @@
 		"is_update_require": false,
 		"package_id": "com.yoyolive.llc", 
 		"website_url": "https://yoyolive.github.io/", 
-		"app_icon": "",
+		"app_icon": "https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg",
 		"updated_version_code": 8,
 		"title": "App Update",
 		"default_message": "Your App need an update."
