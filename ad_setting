@@ -111,14 +111,14 @@
 	]	
 	},	
 	"app_lovin": {	
-		"id_unit_banner": "c627779fcaa3cbe3",
-		"id_unit_intra": "11ca10e1407e8d0f",
+		"id_unit_banner": "c82a916bc9850866",
+		"id_unit_intra": "e1680b40d4e639df",
 		"id_unit_native": "c9e5f467f320ff02",
 		"rewared_ads_unit_id": "788e6826808014df",
 		"is_banner_ads": true,
 		"is_interstitial_ads": true,
 		"is_native_ads": false,
-		"is_rewared_ads": true
+		"is_rewared_ads": false
 	},	
 	"unity_ads": {	
 		"game_id": "4737797",
