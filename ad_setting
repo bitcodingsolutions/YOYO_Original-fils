@@ -119,11 +119,11 @@
 		"id_unit_native": "c9e5f467f320ff02",
 		"id_unit_native_multiple": 
 		{
-     			        "small":"dbf12aaf3a678092",
-      		        	"medium":"d9b5e64be4e76260",
-    			        "manual":"cd9aadf70858359e"
+     			        "small":"9632213c2b615176",
+      		        	"medium":"8e4ac4cda97b3d52",
+    			        "manual":"b8408ff8ba0188c3"
   		  },
-		"rewared_ads_unit_id": "788e6826808014df",
+		"rewared_ads_unit_id": "dcfeacb6e0984c4c",
 		"is_banner_ads": true,
 		"is_interstitial_ads": true,
 		"is_native_ads": true,
