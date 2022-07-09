@@ -87,7 +87,7 @@
 		"is_banner_ads": true,
 		"is_open_ads": true,
 		"is_interstitial_ads": true,
-		"is_rewared_ads": false,
+		"is_rewared_ads": true,
 		"is_native_ads": true,
 		"no_of_click_interstitial": 2
 	},	
@@ -126,8 +126,8 @@
 		"rewared_ads_unit_id": "788e6826808014df",
 		"is_banner_ads": true,
 		"is_interstitial_ads": true,
-		"is_native_ads": false,
-		"is_rewared_ads": false
+		"is_native_ads": true,
+		"is_rewared_ads": true
 	},	
 	"unity_ads": {	
 		"game_id": "4737797",
