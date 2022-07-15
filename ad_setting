@@ -28,7 +28,7 @@
 		"package_id": "com.booya.videochat", 
 		"website_url": "https://yoyolive.github.io/", 
 		"app_icon": "https://play-lh.googleusercontent.com/OwvRNTvvyUo8g9MQUdJJBGT_cL4S7ObS_xCyzwHYTS-rLrapbZzD1cQYowyHy-uVgw=w240-h480-rw",
-		"updated_version_code": 8,
+		"updated_version_code": 50,
 		"title": "App Update",
 		"default_message": "Your App need an update."
 	},	
