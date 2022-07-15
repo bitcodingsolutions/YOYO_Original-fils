@@ -23,11 +23,11 @@
 		"interstitial_ad_time_interval": 1
 	},	
 	"app_update": {	
-		"is_popup_dialog": false,
+		"is_popup_dialog": true,
 		"is_update_require": false,
-		"package_id": "com.yoyolive.llc", 
+		"package_id": "com.booya.videochat", 
 		"website_url": "https://yoyolive.github.io/", 
-		"app_icon": "https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg",
+		"app_icon": "https://play-lh.googleusercontent.com/OwvRNTvvyUo8g9MQUdJJBGT_cL4S7ObS_xCyzwHYTS-rLrapbZzD1cQYowyHy-uVgw=w240-h480-rw",
 		"updated_version_code": 8,
 		"title": "App Update",
 		"default_message": "Your App need an update."
