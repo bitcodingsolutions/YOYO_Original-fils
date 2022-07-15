@@ -14,7 +14,7 @@
 		"app_version_code": 2,
 		
 		
-		"is_full_ads": true,
+		"is_full_ads": false,
 		"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11", 
 		"ads_loading_text": "Ad is loading...",
 		"seconds_require_triger_reward": 45,	
