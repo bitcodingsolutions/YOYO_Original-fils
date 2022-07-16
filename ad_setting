@@ -21,8 +21,8 @@
 		"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11", 
 		"ads_loading_text": "Ad is loading...",
 		"seconds_require_triger_reward": 10,	
-		"global_intra_interval_click": 3,
-		"interstitial_ad_time_interval": 10
+		"global_intra_interval_click": 2,
+		"interstitial_ad_time_interval": 5
 	},	
 	"app_update": {	
 		"is_popup_dialog": false,
@@ -86,18 +86,18 @@
 		
 	},	
 	"google_ads": {	
-		"banner_ad_unit_id_android": "ca-app-pub-1148206974547742/8419163805", 
-		"interstitial_ad_unit_id_android": "ca-app-pub-1148206974547742/6914510444", 
-		"app_open_ad_unit_id_android": "ca-app-pub-1148206974547742/5601428771", 
-		"native_ads_unit_id_android": "/6499/example/native", 
-		"rewared_ads_unit_id": "/6499/example/rewarded", 
-		"native_video_ads_unit_id_android": "/6499/example/native-video", 
+		"banner_ad_unit_id_android": "ca-app-pub-4742103267207120/5341368465", 
+		"interstitial_ad_unit_id_android": "ca-app-pub-4742103267207120/1402123452", 
+		"app_open_ad_unit_id_android": "ca-app-pub-4742103267207120/7807749705", 
+		"native_ads_unit_id_android": "ca-app-pub-4742103267207120/2746994715", 
+		"rewared_ads_unit_id": "ca-app-pub-4742103267207120/2748098362", 
+		"native_video_ads_unit_id_android": "ca-app-pub-4742103267207120/7451692336", 
 		"is_banner_ads": true,
 		"is_open_ads": true,
 		"is_interstitial_ads": true,
-		"is_rewared_ads": false,
+		"is_rewared_ads": true,
 		"is_native_ads": true,
-		"no_of_click_interstitial": 2
+		"no_of_click_interstitial": 1
 	},	
 	"custom_ads": {	
 		"qureka_link": "https://490.go.qureka.com/intro/question",
