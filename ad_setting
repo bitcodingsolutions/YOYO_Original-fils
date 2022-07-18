@@ -90,7 +90,7 @@
 		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
 		"app_open_ad_unit_id_android": "/6499/example/app-open", 
 		"native_ads_unit_id_android": "/6499/example/native", 
-		"rewared_ads_unit_id": "/6499/example/rewarded", 
+		"rewared_ads_unit_id": "/21775744923/example/rewarded_interstitial", 
 		"native_video_ads_unit_id_android": "/6499/example/native-video", 
 		"is_banner_ads": true,
 		"is_open_ads": true,
