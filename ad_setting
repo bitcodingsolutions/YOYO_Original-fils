@@ -14,7 +14,7 @@
 	"extra_url": "https://raw.githubusercontent.com/pkbitcoding/booya/main/App_Setting.json", 	
 	"ad_setting": {	
 	
-		"app_version_code": 12,
+		"app_version_code": 13,
 		
 		
 		"is_full_ads": true,
