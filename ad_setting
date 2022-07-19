@@ -14,15 +14,15 @@
 	"extra_url": "https://raw.githubusercontent.com/pkbitcoding/booya/main/App_Setting.json", 	
 	"ad_setting": {	
 	
-		"app_version_code": 13,
+		"app_version_code": 14,
 		
 		
 		"is_full_ads": true,
 		"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11", 
 		"ads_loading_text": "Ad is loading...",
 		"seconds_require_triger_reward": 45,	
-		"global_intra_interval_click": 1,
-		"interstitial_ad_time_interval": 1
+		"global_intra_interval_click": 3,
+		"interstitial_ad_time_interval": 25
 	},	
 	"app_update": {	
 		"is_popup_dialog": false,
