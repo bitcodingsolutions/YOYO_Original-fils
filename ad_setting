@@ -14,13 +14,14 @@
 	"extra_url": "https://raw.githubusercontent.com/pkbitcoding/booya/main/App_Setting.json", 	
 	"ad_setting": {	
 	
-		"app_version_code": 14,
-		
+		"app_version_code": 14,		
 		
 		"is_full_ads": true,
+		
 		"is_geoedge_sdk_flag": true,
       	        "is_analytics_flag": true,
                 "geoedge_sdk_key": "755bfaf4-91f2-4843-85f1-527189ab389e",
+		
 		"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11", 
 		"ads_loading_text": "Ad is loading...",
 		"seconds_require_triger_reward": 45,	
