@@ -101,7 +101,7 @@
 		"is_interstitial_ads": false,
 		"is_rewared_ads": true,
 		"is_native_ads": false,
-		"no_of_click_interstitial": 1
+		"no_of_click_interstitial": 2
 	},
 	
 	"facebook_ads": {	
