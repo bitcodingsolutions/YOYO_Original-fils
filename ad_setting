@@ -90,12 +90,12 @@
 		
 	},	
 	"google_ads": {	
-		"banner_ad_unit_id_android": "/6499/example/banner", 
-		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
-		"app_open_ad_unit_id_android": "/6499/example/app-open", 
-		"native_ads_unit_id_android": "/6499/example/native", 
-		"rewared_ads_unit_id": "/21775744923/example/rewarded_interstitial", 
-		"native_video_ads_unit_id_android": "/6499/example/native-video", 
+		"banner_ad_unit_id_android": "ca-app-pub-9446439099248724/9735693446", 
+		"interstitial_ad_unit_id_android": "ca-app-pub-9446439099248724/8586812044", 
+		"app_open_ad_unit_id_android": "ca-app-pub-9446439099248724/5114470893", 
+		"native_ads_unit_id_android": "ca-app-pub-9446439099248724/2838008958", 
+		"rewared_ads_unit_id": "ca-app-pub-9446439099248724/2488307555", 
+		"native_video_ads_unit_id_android": "ca-app-pub-9446439099248724/2838008958", 
 		"is_banner_ads": true,
 		"is_open_ads": true,
 		"is_interstitial_ads": false,
