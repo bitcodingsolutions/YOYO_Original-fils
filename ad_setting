@@ -20,7 +20,7 @@
 		
 		"is_geoedge_sdk_flag": true,
       	        "is_analytics_flag": true,
-                "geoedge_sdk_key": "755bfaf4-91f2-4843-85f1-527189ab389e",
+                "geoedge_sdk_key": "b6ce4420-59b1-437e-8c73-e32a2ab87cff",
 		
 		"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11", 
 		"ads_loading_text": "Ad is loading...",
